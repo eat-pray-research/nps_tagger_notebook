@@ -2,7 +2,7 @@
 
 ### Инструкция:
 - Тыкай сюда -> [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/vapapaiva-nps_tagger_notebook-iodbptz6/tree) - откроется спейс с файлами
-- Нажми upload (в правом верхнем углу) и загрузи в спейс файлы с NPS опросами
+- Нажми **upload** (в правом верхнем углу) и загрузи в спейс файлы с NPS опросами
 - Зайди в файл **nps_script.ipynb**
 - В ячейке с кодом функции, которая запускает теггирование, пропиши через запятую названия файлов. Чтобы получилось как-то так: 
 ```
@@ -20,4 +20,8 @@ process_nps([
 
 ---
 
-P.S. Если кнопка сломалась - не беда. Иди на https://mybinder.org/ в поле **GitHub repository name or URL** вставляй ссылку на эту страницу (https://github.com/vapapaiva/nps_tagger_notebook) и жди пока он соберет тебе проект. А дальше — иди по инструкции.
+P.S. Если кнопка сломалась - не беда:
+- Иди на https://mybinder.org/ 
+- В поле **GitHub repository name or URL** вставляй ссылку на эту страницу: https://github.com/vapapaiva/nps_tagger_notebook
+- Жми **Launch**
+- Жди пока он соберет тебе проект. А дальше — иди по инструкции выше

@@ -18,5 +18,6 @@ process_nps([
 
 Грацы, ты великолепен!
 
+---
 
 P.S. Если кнопка сломалась - не беда. Иди на https://mybinder.org/ в поле **GitHub repository name or URL** вставляй ссылку на эту страницу (https://github.com/vapapaiva/nps_tagger_notebook) и жди пока он соберет тебе проект. А дальше — иди по инструкции.

@@ -2,7 +2,7 @@
 
 ### Инструкция:
 - Иди на https://mybinder.org/ 
-- В поле **GitHub repository name or URL** вставляй ссылку на эту страницу: https://github.com/vapapaiva/nps_tagger_notebook
+- В поле **GitHub repository name or URL** вставляй ссылку на эту страницу: https://github.com/eat-pray-research/nps_tagger_notebook
 - Жми **Launch**
 - Жди пока он соберет тебе проект
 - Когда откроется проект (страница со списком файлов) нажми **upload** (в правом верхнем углу) и загрузи в спейс файлы с NPS опросами
